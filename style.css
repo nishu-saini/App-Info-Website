@@ -1,0 +1,59 @@
+#staticEmail2 {
+    border:1px solid grey;
+    border-radius:5px;
+    width:250px;
+}
+
+.jumbotron {
+    background-image:url(https://www.incimages.com/uploaded_files/image/1024x576/westworld-2-hbo-background-1920_419617.jpg);
+    text-align:center;
+    padding-top:30px;
+    margin-top:50px;
+}
+
+#email {
+    width:300px;
+}
+
+.input-group-addon {
+    background-color:#CCCCCC;
+    width:30px;
+    border-radius:3px;
+    padding-top:6px;
+}
+
+#appSummary {
+    text-align:center;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+.signup_bar {
+    width:415px;
+    margin:0 auto;
+}
+
+.container {
+    text-align:center;
+}
+
+.card-img-top {
+    height:400px;
+}
+
+#footer {
+    text-align:center;
+    background-color:aqua;
+    height:400px;
+    padding-top:100px;
+    margin-top:50px;
+    margin-bottom:20px;
+}
+
+#appStoreIcon {
+    width:200px;
+}
+
+body {
+    position:relative;
+}
